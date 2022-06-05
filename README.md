@@ -1,1 +1,1 @@
-# knime
+# Knime Projects
