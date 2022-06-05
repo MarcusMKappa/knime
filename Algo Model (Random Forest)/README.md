@@ -1,5 +1,5 @@
 # Algo Model (Random Forest)
-
+#### The proof of concept project consists in the development of an algo trading model for major currency pairs. The algorithm was based on minute data (daytrading). Each day cyclical minimum and maximum values were determined and the occurrence of these states was predicted using Random Forest.
 
 ![Output](https://user-images.githubusercontent.com/106902757/172068763-943351e5-4fbb-4d82-9b94-91e4a7aa6cdd.png)
 
